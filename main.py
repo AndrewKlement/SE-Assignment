@@ -20,6 +20,8 @@ def check_input():
 
     print('duplicate =', pointer2)
 
+print("Floyd's Algorithm")
+
 check_input()
 
 
