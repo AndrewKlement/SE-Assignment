@@ -6,7 +6,7 @@ Software engineering assignment
 - One number is duplicated (appearing twice).
 
 ## Steps:
-- Make sure you have Python 3 installed
+- Make sure you have Python installed
 - Save the code into a file
 - Open a terminal (or command prompt) and navigate to the folder containing the file
 - Run the script
